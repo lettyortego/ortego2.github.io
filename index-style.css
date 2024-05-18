@@ -1,5 +1,5 @@
 body{
-    background-image: url(PHOTOS/A.jpg);
+    background-image: url("https://raw.githubusercontent.com/lettyortego/ortego2.github.io/main/A.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
