@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://raw.githubusercontent.com/lettyortego/ortego2.github.io/main/A.jpg");
+    background-image: url(PHOTOS/A.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -12,7 +12,7 @@ h1{
 }
 .header {
     overflow: hidden;
-    background-color: rgb(153, 245, 125);
+    background-color: rgb(245, 203, 125);
     /*padding: 20px 10px;*/
   }
 
